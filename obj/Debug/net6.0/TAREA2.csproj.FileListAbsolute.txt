@@ -1,0 +1,15 @@
+C:\tarea2repositorio\Tarea2\TAREA2\bin\Debug\net6.0\TAREA2.exe
+C:\tarea2repositorio\Tarea2\TAREA2\bin\Debug\net6.0\TAREA2.deps.json
+C:\tarea2repositorio\Tarea2\TAREA2\bin\Debug\net6.0\TAREA2.runtimeconfig.json
+C:\tarea2repositorio\Tarea2\TAREA2\bin\Debug\net6.0\TAREA2.dll
+C:\tarea2repositorio\Tarea2\TAREA2\bin\Debug\net6.0\TAREA2.pdb
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\TAREA2.csproj.AssemblyReference.cache
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\TAREA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\TAREA2.AssemblyInfoInputs.cache
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\TAREA2.AssemblyInfo.cs
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\TAREA2.csproj.CoreCompileInputs.cache
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\TAREA2.dll
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\refint\TAREA2.dll
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\TAREA2.pdb
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\TAREA2.genruntimeconfig.cache
+C:\tarea2repositorio\Tarea2\TAREA2\obj\Debug\net6.0\ref\TAREA2.dll
